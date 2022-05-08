@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Vahit
 #### I am a Software Developer in Test
-I am a Software Developer in Test
 
 I am focused on Automation processes. These days i am automating almost everything. Besides i am initializing a new process with qbits. A new way of life..
 
