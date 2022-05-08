@@ -3,7 +3,7 @@
 
 I am focused on Automation processes. These days i am automating almost everything. Besides i am initializing a new process with qbits. A new way of life..
 
-Skills: PYTHON/ JAVA /SELENIUM /CUCUMBER /WEBDRIVER IO /CYPRESS /PLAYWRIGHT /TEST COMPLETE /JUNIT /PYTEST /JS / HTML / CSS/ 
+Skills: PYTHON/ JAVA /SELENIUM /CUCUMBER /WEBDRIVER IO /CYPRESS /PLAYWRIGHT /TEST COMPLETE /JUNIT /PYTEST /JS / HTML / CSS/ TestNG
 
 - 🔭 I’m currently working on Automating Some GUI's 
 - 🌱 I’m currently learning Quantum Computing 
