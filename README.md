@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Vahit
 #### I am an Automation Engineer. Yes I automate everything.
 
-I am focused on Automation processes. These days i am automating almost everything. Besides i am initializing a new process with qbits. A new way of life..
+I am focused on Automation processes. These days i am automating almost everything. Besides i am initializing a new process with ML/ AI and Qbits. A new way of life..
 
 Skills: PYTHON/ JAVA /SELENIUM /CUCUMBER /WEBDRIVER IO /CYPRESS /PLAYWRIGHT /TEST COMPLETE /JUNIT /PYTEST /JS / HTML / CSS/ TestNG
 
