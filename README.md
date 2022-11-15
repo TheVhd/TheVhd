@@ -6,7 +6,7 @@ I am focused on Automation processes. These days i am automating almost everythi
 Skills: PYTHON/ JAVA /SELENIUM /CUCUMBER /WEBDRIVER IO /CYPRESS /PLAYWRIGHT /TEST COMPLETE /JUNIT /PYTEST /JS / HTML / CSS/ TestNG
 
 - 🔭 I’m currently working on Automating Some GUI's 
-- 🌱 I’m currently learning Quantum Computing 
+- 🌱 I’m currently learning ML/ AI and Quantum Computing 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheVhd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vuzunlar/?locale=en_US/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](testpro.dev)  
