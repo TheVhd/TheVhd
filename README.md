@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Vahit
-#### I am an Automation Engineer. Yes I automate everything.
+#### I am an ML/AI Engineer. Yes Machines are Learning, talking and will be walking and more.
 
-I am focused on Automation processes. These days i am automating almost everything. Besides i am initializing a new process with ML/ AI and Qbits. A new way of life..
+I am focused on NLP Engineering.
 
-Skills: PYTHON/ JAVA /SELENIUM /CUCUMBER /WEBDRIVER IO /CYPRESS /PLAYWRIGHT /TEST COMPLETE /JUNIT /PYTEST /JS / HTML / CSS/ TestNG
+Skills: PYTHON/ JAVA /Numpy /Pandas /Tensorflow / Keras /Image Classification /Scikit Learn / Apache airflow / Linux
 
-- 🔭 I’m currently working on Automating Some GUI's 
-- 🌱 I’m currently learning ML/ AI and Quantum Computing 
+- 🔭 I’m currently building ML Projects 
+- 🌱 Learning new skills for NLP 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheVhd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vuzunlar/?locale=en_US/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](testpro.dev)  
