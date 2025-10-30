@@ -1,20 +1,57 @@
-### Hi there 👋, my name is Vahit
-#### I am an ML/AI Engineer. Yes Machines are Learning, talking and will be walking and more.
+### 👋 Hi, I'm Vahit  
+#### 🧠 ML & AI Engineer | Building Intelligent Systems that Learn, Reason & Create  
 
-I am focused on NLP Engineering.
+I'm passionate about **applied AI**, focusing on **Natural Language Processing**, **agent architectures**, and **context-aware learning systems**.  
+Currently, I'm developing large-scale **AI assistants** in the **education and health domains** — where models don't just respond, they *reason and act*.
 
-Skills: PYTHON/ JAVA /Numpy /Pandas /Tensorflow / Keras /Image Classification /Scikit Learn / Apache airflow / Linux
+---
 
-- 🔭 I’m currently building ML Projects 
-- 🌱 Learning new skills for NLP 
+### 🚀 Current Focus
+- Architecting **LangGraph-based agentic systems** for education & healthcare  
+- Enhancing **LLM efficiency** through context engineering  
+- Designing **data-driven AI pipelines** with FastAPI, Neo4j, Redis, and Airflow  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TheVhd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vuzunlar/?locale=en_US/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](testpro.dev)  
+### 🧩 Tech Stack
+**Languages:** Python, Java  
+**AI / ML:** PyTorch, TensorFlow, Keras, Scikit-Learn  
+**Data:** NumPy, Pandas, Matplotlib  
+**MLOps:** Apache Airflow, Docker, FastAPI  
+**Databases:** MongoDB, Neo4j, PostgreSQL, Redis  
+**Other:** Linux, RESTful APIs, LangChain, LangGraph  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVhd&show_icons=true)  
+### 🌱 Learning & Exploring
+- Multi-agent reasoning & retrieval-augmented generation (RAG)
+- AI for education and human-centered design
+- Advanced deployment patterns for LLM-powered microservices  
 
-![GitHub metrics](https://metrics.lecoq.io/TheVhd)  
+---
 
-![Profile views](https://gpvc.arturio.dev/TheVhd)  
+### 📫 Connect with Me
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30">](https://github.com/TheVhd)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30">](https://www.linkedin.com/in/vuzunlar/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://testpro.dev)
+
+---
+
+### ⚡ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVhd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVhd&layout=compact&theme=radical)
+
+---
+
+### 🏗️ Projects Snapshot
+- **Learning Matrix (LMXAI):** Adaptive AI tutor system for personalized education  
+- **Savion:** AI-driven nutrition & clinic assistant with agent-based architecture  
+- **Scraib:** Doctor voice-to-notes system using Whisper & structured output  
+- **NonprofitCounsel.ai:** Legal data intelligence for NGOs  
+
+---
+
+### 🪄 Fun Fact  
+“Machines are not replacing intelligence — they’re expanding what it means to be intelligent.”
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheVhd&color=blue)
