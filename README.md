@@ -36,7 +36,7 @@ Currently, I'm developing large-scale **AI assistants** in the **education and h
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://lmxai.com)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://savion.app)
 
-[![LMXAI Benchmark Report](https://i.imgur.com/abcd1234.png)](https://www.linkedin.com/posts/lmxai_lxmai-educaitonal-ai-benchmark-report-activity-7374721332640522240-VSww)
+[![LMXAI Benchmark Report]](https://www.linkedin.com/posts/lmxai_lxmai-educaitonal-ai-benchmark-report-activity-7374721332640522240-VSww)
 
 
 ---
