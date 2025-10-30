@@ -41,7 +41,6 @@ Currently, I'm developing large-scale **AI assistants** in the **education and h
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVhd&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVhd&layout=compact&theme=radical)
 ![Vahit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheVhd&theme=github-dark&hide_border=true&area=true)
-![snake gif](https://github.com/TheVhd/TheVhd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
