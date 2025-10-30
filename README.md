@@ -36,6 +36,9 @@ Currently, I'm developing large-scale **AI assistants** in the **education and h
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://lmxai.com)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://savion.app)
 
+[![LinkedIn Post](https://i.imgur.com/2h8fYQF.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7374721331373977600)
+
+
 ---
 
 ### ⚡ GitHub Stats
