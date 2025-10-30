@@ -33,7 +33,8 @@ Currently, I'm developing large-scale **AI assistants** in the **education and h
 ### 📫 Connect with Me
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30">](https://github.com/TheVhd)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30">](https://www.linkedin.com/in/vuzunlar/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://testpro.dev)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://lmxai.com)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" height="30">](https://savion.app)
 
 ---
 
