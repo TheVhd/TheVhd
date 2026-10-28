@@ -29,18 +29,21 @@ My rule: **measure first.** No change without a baseline score, and every fix sh
 | ⚖️ | **Savion**: legal AI agents with citations over 120K+ EU, US and Dutch sources | Claude Opus 77% (published) → **84%** · **90%** citation accuracy · MiniMax M3.1 49% → **77%** |
 | 🔎 | **Axis**: SEO + GEO agents (GA4, Search Console, MCP) | **0 → 1,500** AI citations in 28 days |
 | 🎓 | **LKAi**: AI learning assistant for a secondary school | **68% → 85%** accuracy |
-| 🔒 | **Private AI platform** for a company's internal teams: self-hosted LLMs on GPUs (vLLM) plus Claude and ChatGPT | **130+** agent tools delivered |
+| 🔒 | **Private AI platform** for a company's internal teams: self-hosted LLMs on GPUs (vLLM) plus Claude and ChatGPT, with GPU capacity planning and a cost-per-seat model | **130+** agent tools delivered |
 | 🥗 | **Optimeal**: AI nutrition assistant for dietitians | Multi-agent workflows with LangGraph + MCP |
 
 📄 [LMXAI Educational AI Benchmark Report](https://www.linkedin.com/posts/lmxai_lxmai-educaitonal-ai-benchmark-report-activity-7374721332640522240-VSww)
 
 ---
 
-### 🚀 Current focus
+### 🚀 What I do
 
-- 🤖 **Agentic systems**: self-evaluating agents, long-running deep research agents, multi-agent workflows (LangGraph, MCP)
-- 📏 **Evals & reliability**: eval harnesses, tracing, citation checking, prompt and model regression tests
-- 🖥️ **Self-hosted LLMs**: vLLM, SGLang, LoRA/QLoRA fine-tuning, GPU capacity and cost per seat
+- 🤖 **Agentic systems**: Deep Agents for long-running tasks, self-evaluating agents, multi-agent workflows (LangGraph, Mastra, MCP)
+- ⚡ **Workflow automation**: n8n + AI agents connected to the tools a business already uses
+- 🖥️ **LLM hosting & GPU optimization**: vLLM, SGLang, KV-cache tuning, GPU capacity planning
+- 💶 **LLM cost optimization & ROI**: hosting cost models, cost per seat, feasibility and ROI estimates before you commit to GPUs or APIs
+- 🧪 **Fine-tuning**: SFT, LoRA/QLoRA, MoE models
+- 📏 **Evals**: eval harnesses, benchmarks (GSM8K, HumanEval, MBPP, BFCL), tracing, citation checks, regression tests
 - 🔌 **MCP servers & agent skills** that plug AI into real tools
 
 ---
@@ -73,6 +76,10 @@ My rule: **measure first.** No change without a baseline score, and every fix sh
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Deep Agents](https://img.shields.io/badge/Deep_Agents-1C3C3C?style=flat-square)
+![Mastra](https://img.shields.io/badge/Mastra-111111?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-F75C7E?style=flat-square)
 ![SGLang](https://img.shields.io/badge/SGLang-7C3AED?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
@@ -89,7 +96,7 @@ My rule: **measure first.** No change without a baseline score, and every fix sh
 - 🏢 **LMX AI Studio**: founder & AI architect (2023 – now)
 - 🍎 **Cognizant**: ML Engineer on an Apple Siri project
 - 🧬 **Clinerion, Basel**: ML research on CLL prediction with the University of Zurich
-- 🎓 **Leiden University**: Applied Data Science
+- 🎓 **Leiden University**: Applied Data Science · AI & Law
 
 ---
 
