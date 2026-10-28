@@ -104,10 +104,15 @@ My rule: **measure first.** No change without a baseline score, and every fix sh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVhd&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVhd&layout=compact&theme=radical&hide_border=true)
+<img src="https://raw.githubusercontent.com/TheVhd/TheVhd/main/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile details" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheVhd&theme=github-dark&hide_border=true&area=true)
+<img src="https://raw.githubusercontent.com/TheVhd/TheVhd/main/profile-summary-card-output/radical/3-stats.svg" height="180" alt="Stats" />
+<img src="https://raw.githubusercontent.com/TheVhd/TheVhd/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" alt="Most commit language" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheVhd/TheVhd/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/TheVhd/TheVhd/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 
 </div>
 
